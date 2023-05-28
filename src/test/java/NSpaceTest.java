@@ -11,7 +11,7 @@ class NSpaceTest {
     static int size;
     static int distinctWords;
     static WordGenerator generator;
-    static String path = "A:\\ds3\\test1.txt";
+    static String path = "src\\test\\test1.txt";
     static int wordCount = 20000;
     static String existWord = "0Tbrit1[hM";
     static String nonExistWord = "0Tbrit1[hM$$";

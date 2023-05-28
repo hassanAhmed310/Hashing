@@ -11,7 +11,7 @@ class N2TimeTest2 {
     static int size;
     static int distinctWords;
     static WordGenerator generator;
-    static String path = "A:\\ds3\\test2.txt";
+    static String path = "src\\test\\test2.txt";
     static String existWord = "-RswlNtK^b";
     static String nonExistWord = "-RswlNtK^b$$";
     static int wordCount = 50000;
